@@ -6,5 +6,5 @@ This Project built using Python, uses Random Forest Regressor model, to predict 
 
 ## Dataset Link
 
-The dataset used in this project can be found here : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
+The dataset used in this project can be found here in kaggle : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
