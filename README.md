@@ -8,3 +8,8 @@ This Project built using Python, uses Random Forest Regressor model, to predict 
 
 The dataset used in this project can be found here in kaggle : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
+## Work-Flow
+<p align="center">
+  <img src="https://github.com/Pinak-coder/Gold-Price-Prediction/blob/main/WF.png" width="600" title="hover text">
+</p>
+
