@@ -8,18 +8,11 @@ This Project built using Python, uses Random Forest Regressor model, to predict 
 
 The dataset used in this project can be found here in kaggle : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
-<!--
 ## Work-Flow
 <p align="center">
   <img src="https://github.com/Pinak-coder/Gold-Price-Prediction/blob/main/WF.png" width="600" title="hover text">
 </p>
 
--->
-
-## Work-Flow
-<p align="center">
-  <img src="https://github.com/Pinak-coder/Gold-Price-Prediction/blob/main/WF.png" width="600" title="hover text">
-</p>
 
 ## Final Output
 
@@ -29,4 +22,3 @@ The final graphs, demonstrating the performances of our model, compares the actu
   <img src="https://github.com/Pinak-coder/Gold-Price-Prediction/blob/main/op.png" width="300" title="hover text">
 </p>
 
-R-squared error comes to be around: 0.9
